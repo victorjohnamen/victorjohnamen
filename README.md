@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @victorjohnamen
+- 🌱 I’m currently learning WebDevelopment
+- 💞️ I’m looking to collaborate on Creating interesting websites from scratch
